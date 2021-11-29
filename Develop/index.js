@@ -1,6 +1,7 @@
 // TODO: Include packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs')
+const generateMarkdown = require('./utils/generateMarkdown.js')
 
 
 
@@ -19,7 +20,7 @@ const questions = [
     {
       type: 'input',
       message: 'What is your project\'s name?',
-      name: 'projectName',
+      name: 'title',
     },
     {
       type: 'input',
@@ -69,7 +70,7 @@ function init() {
     inquirer
     .prompt(questions)
     .then(function(data) {
-        writeToFile(fileName, data)
+        writeToFile('./output/README.md', generateMarkdown(data))
     })
 }
 
