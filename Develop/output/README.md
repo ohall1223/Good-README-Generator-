@@ -1,36 +1,30 @@
-# Awesome
+# Awesome project
 
-# Description
+  # Description
+   This project is awesome!! You should use it & give me lots of money.
 
-It's awesome
+   ## Table of Contents 
+   Install everything 
+   This project is awesome and you will love it
+   Only add the best things since this project is so awesome.
+   MIT License
 
-## Table of Contents
+   ## Installation 
+   Install everything 
 
-All of em
-Make it better
-It's great
-MIT License
+   ## Usage
+   Test everything
+   This project is awesome and you will love it
+   Only add the best things since this project is so awesome.
 
-## Installation
+   ## Credits
+   ohall1223
+   ohall1223@gmail.com
 
-All of em
-
-## Usage
-
-All of em
-Make it better
-It's great
-
-## Credits
-
-ohall1223
-ohall1223@gmail.com
-
-## License
-
-MIT License
-https://choosealicense.com/licenses/mit/
-
+   ## License 
+   MIT License
+   https://choosealicense.com/licenses/mit/
+   
     MIT License
 
     Copyright (c) 2021
@@ -53,6 +47,6 @@ https://choosealicense.com/licenses/mit/
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
 
-## Badges
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+   ## Badges
+   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
